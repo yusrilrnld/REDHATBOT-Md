@@ -29,6 +29,7 @@ pkg install imagemagick -y
 git clone https://github.com/koleksibot/REDHATBOT-Md
 cd REDHATBOT-Md
 npm start
+npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
  
 
