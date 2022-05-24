@@ -52,4 +52,5 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/koleksibot/T-Md/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/koleksibot/REDHATBOT-Md/)
+[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://github.com/koleksibot/REDHATBOT-Md)
