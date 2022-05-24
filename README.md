@@ -4,7 +4,7 @@
 
 # **REDHAT BOT MULTI DEVICE WHATSAPP**
   
-  
+ 
 # ```Bot Info```
 <p align="center">
 <a href="https://github.com/tahaluindo/followers"><img title="Followers" src="https://img.shields.io/github/followers/tahaluindo?color=red&style=flat-square"></a>
