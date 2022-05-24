@@ -13,6 +13,25 @@
 </p>
 <p align='center'>
     </p>
+<div align="center">  
+<details>
+    <summary>🎯<b>Setup for deployment , Click Here</b>🗳️
+
+</summary>
+
+
+<div align="center">
+  <p align="center">
+
+## `SETTINGS`
+
+- CHANGE OWNER NUMBER [Here](https://github.com/koleksibot/REDHATBOT-Md/blob/main/settings.js#L24)
+- CHANGE OWNER NAME [Here](https://github.com/koleksibot/REDHATBOT-Md/blob/main/settings.js#L27)
+- CHANGE BOT NAME [Here](https://github.com/koleksibot/REDHATBOT-Md/blob/main/settings.js#L28)
+- DELETE THIS SESSION [Here](https://github.com/koleksibot/REDHATBOT-Md/blob/main/asif615.json)
+
+
+</p>
 
 ## `For Termux/Ssh/Ubuntu/Vps`
 ```bash
