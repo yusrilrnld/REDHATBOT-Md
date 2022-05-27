@@ -17,7 +17,7 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'BagasPrdn', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
+	'https://zenzapis.xyz': 'OHOK989412345', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 
 //customize settings\\
@@ -25,8 +25,8 @@ global.owner = ['62895369318181']
 global.premium = ['62895369318181']
 global.ownernomer = '62895369318181'
 global.ownername = 'Koleksibot X You🔥'
-global.botname = 'REDHATBOT CLOUD'
-global.footer = 'rootsec.xyz Inc.'
+global.botname = 'REDHATBOT CLOUD 🤖'
+global.footer = 'By rootsec.xyz'
 global.ig = 'https://github.com/koleksibot'
 global.region = 'Aku Iki Wong Jowo Soko Indonesia'
 global.sc = 'https://github.com/koleksibot'
