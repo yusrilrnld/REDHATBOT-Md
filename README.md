@@ -23,6 +23,10 @@
 <div align="center">
   <p align="center">
 
+## `DEMO VIDEO`
+
+- DEMO THE BOT [Here](https://github.com/koleksibot/REDHATBOT-Md/blob/main/XRecorder_27052022_193114.mp4)
+
 ## `SETTINGS`
 
 - CHANGE OWNER NUMBER [Here](https://github.com/koleksibot/REDHATBOT-Md/blob/main/settings.js#L24)
