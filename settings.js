@@ -17,23 +17,23 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'OHOK989412345', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
+	'https://zenzapis.xyz': '805a6c3fa9', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 
 //customize settings\\
-global.owner = ['62895369318181']
-global.premium = ['62895369318181']
-global.ownernomer = '62895369318181'
-global.ownername = 'Koleksibot X You🔥'
-global.botname = 'REDHATBOT CLOUD 🤖'
-global.footer = 'By rootsec.xyz'
-global.ig = 'https://github.com/koleksibot'
-global.region = 'Aku Iki Wong Jowo Soko Indonesia'
-global.sc = 'https://github.com/koleksibot'
-global.myweb = 'https://wa.me/62895369318181'
+global.owner = ['6282252875751']
+global.premium = ['6282252875751']
+global.ownernomer = '6282252875751'
+global.ownername = 'Yusril🔥'
+global.botname = 'IRENE-MD 🤖'
+global.footer = 'By yusrilrnld'
+global.ig = 'https://github.com/yusrilrnld'
+global.region = 'Asli Uluh Dayak Pride'
+global.sc = 'https://github.com/yusrilrnld'
+global.myweb = 'https://wa.me/6282252875751'
 global.packname = 'Di Buat Untuk Mu'
-global.author = 'By Koleksibot'
-global.sessionName = 'asif615'
+global.author = 'By irene'
+global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
@@ -50,7 +50,7 @@ global.mess = {
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 10000,
+    free: 20,
     monayawal: 1000
 }
    global.rpg = {
